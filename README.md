@@ -1,4 +1,4 @@
-# BLickfeld Cube 1 LiDAR binary classification for detecting humans in a set doorframe
+# Blickfeld Cube 1 LiDAR binary classification for detecting humans in a set doorframe
 
 Created 10.01.2025 Brunswick, Germany
 

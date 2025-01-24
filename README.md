@@ -22,4 +22,4 @@ Please take a look at the files themselves and the comments in the code for furt
 
 <br>
 
-Special thanks to the German Aerospace Center (DLR) for providing access to this LiDAR sensor and enabling this.
+Special thanks to the German Aerospace Center (DLR) for providing access to this LiDAR sensor.
